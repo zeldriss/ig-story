@@ -5,12 +5,12 @@ Instagram Mass Story View
 
 How to install on Termux?
 
-pkg install php
-pkg install git
-git clone https://github.com/Yaelahkaaa/ig-story
-cd ig-story
-unzip massview-story.zip
-php hyperloop.zip
+pkg install php<br>
+pkg install git<br>
+git clone https://github.com/Yaelahkaaa/ig-story<br>
+cd ig-story<br>
+unzip massview-story.zip<br>
+php hyperloop.zip<br>
 
 Proxy type 3
 Speed type 0
